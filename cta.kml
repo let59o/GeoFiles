@@ -1,8 +1,9 @@
-https://developers.google.com/maps/documentation/javascript/examples/layer-kml
+
 
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.1">
 <!-- Data derived from:
+https://developers.google.com/maps/documentation/javascript/examples/layer-kml
        Ed Knittel - || tastypopsicle.com
        Feel free to use this file for your own purposes.
        Just leave the comments and credits when doing so.
